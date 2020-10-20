@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ZM-Meribel.github.io</id>
     <title>梓孟——地萧阁一隅</title>
-    <updated>2020-10-20T08:55:35.201Z</updated>
+    <updated>2020-10-20T09:27:36.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ZM-Meribel.github.io"/>
     <link rel="self" href="https://ZM-Meribel.github.io/atom.xml"/>
@@ -12,13 +12,19 @@
     <rights>All rights reserved 2020, 梓孟——地萧阁一隅</rights>
     <entry>
         <title type="html"><![CDATA[随笔录——UI设计理念谈之隐性元素联动]]></title>
-        <id>https://ZM-Meribel.github.io/post/sui-bi-lu-ui-she-ji-li-nian-tan-zhi-yin-xing-yuan-su-lian-dong/</id>
-        <link href="https://ZM-Meribel.github.io/post/sui-bi-lu-ui-she-ji-li-nian-tan-zhi-yin-xing-yuan-su-lian-dong/">
+        <id>https://ZM-Meribel.github.io/post/2/</id>
+        <link href="https://ZM-Meribel.github.io/post/2/">
         </link>
         <updated>2020-10-20T08:33:38.000Z</updated>
         <content type="html"><![CDATA[<p><code>当然，首先我是不搞前端的，所以以下都是外行看热闹哈哈哈</code><br>
-一个由QQ和微信使用体验引发的思考：<br>
-在QQ中，我们会发现在聊天区域内由左向右单指滑动会关闭这个窗口并回到上一级</p>
+一个由QQ和微信使用体验引发的思考：</p>
+<p>在QQ中，我们会发现在聊天区域内由左向右单指滑动会关闭这个窗口并回到上一级</p>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2020/10/20/qJtlIiYSV7hM5U3.jpg" alt="" loading="lazy"></figure>
+<p>实际上，在诸如早期的UC浏览器（转型头条类软件前）部分IOS对IPad定制应用都有这种设计 ，但是在微信中，这一设计没有出现。</p>
+<h3 id="这一设计合理吗">这一设计合理吗</h3>
+<p>在我看来，这非常合理，这里设计的前提是，应用采用的前端思路是叠加窗口式：即在类似视窗系统的窗口的平面元素管理思想下，在手机有限的显示空间下，将各个窗口以层叠式分布，一个新的下级窗口叠放在上级窗口上，上级窗口在下级窗口的视觉上的“下面”，也就是万恶之源——返回键的思路。</p>
+<p>在这种环境下上级窗口与下级窗口看似独立，但是却隐含着一个空间上的上下关系，这并非UI自身必须的硬性要求的功能，但是却是现实生活中的直觉会引导我们的一个特殊之处——即我们会认为一个“被放在上面的窗口划掉必然会出现下面一个窗口”，这一需求来自于直觉，并不是在设计构思是能通过需求分析直接发现的，所以我称这个是隐性的元素联动。</p>
+<p>在平时的UI设计中，我们也要注意这种隐性的联动。</p>
 ]]></content>
     </entry>
     <entry>
