@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ZM-Meribel.github.io</id>
     <title>梓孟——地萧阁一隅</title>
-    <updated>2020-10-21T01:12:16.316Z</updated>
+    <updated>2020-10-21T01:39:16.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ZM-Meribel.github.io"/>
     <link rel="self" href="https://ZM-Meribel.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://ZM-Meribel.github.io/images/avatar.png</logo>
     <icon>https://ZM-Meribel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 梓孟——地萧阁一隅</rights>
+    <entry>
+        <title type="html"><![CDATA[随笔录——实例分析浅谈半透明标题的设计]]></title>
+        <id>https://ZM-Meribel.github.io/post/sui-bi-lu-shi-li-fen-xi-qian-tan-ban-tou-ming-biao-ti-de-she-ji/</id>
+        <link href="https://ZM-Meribel.github.io/post/sui-bi-lu-shi-li-fen-xi-qian-tan-ban-tou-ming-biao-ti-de-she-ji/">
+        </link>
+        <updated>2020-10-21T01:13:10.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="案例">案例</h2>
+<p>本篇结合实际案例av669723301进行分析。这是一个唱见翻唱视频，歌曲为原唱乐队“Roselia”的《Fire Bird》，由“MMMEON”进行翻唱，视频封面曲绘由“日奈初不二子”负责，美工为“绮亚不是琦亚”<br>
+实际封面如下，下面以这则封面进行分析。<br>
+<img src="https://i.loli.net/2020/10/21/3Y1iNgfPrsnAUdI.jpg" alt="" loading="lazy"></p>
+<h2 id="组成">组成</h2>
+<p>采用层叠式布局，分上下两层，下层中心为核心人物唱见本人的二次元形象，并佐以墨滴纹理，纹理颜色上才用渐变，并追加了两个条形光源和一个点光源。</p>
+<p>上层则是Title：Fire Bird cover：Roselia</p>
+<h2 id="分析">分析</h2>
+<p>这则封面可以说是处处为亮点，墨滴纹理的大胆引入和光源的结合使用联动产生了一种类似于维多利亚二世时期的“黄金般的光荣感”，与Roselia的乐队主题即为契合。</p>
+<p>在高光照曝光的前提下，Title字干脆选择了白色半透明，不去喧闹Title出于图层上方的地位，而是很好的和其他元素融合在了一起，减少了元素的割裂感。此时大胆使用蒙版加挖空描边的设计，非常合适。</p>
+<p>Fire Bird 的字体样式也值得一提，高亮度描边外加内挖空的设计形成了“描边式投影的错觉”，不可谓之不妙。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如梦令——赠朵莉丝]]></title>
         <id>https://ZM-Meribel.github.io/post/3/</id>
